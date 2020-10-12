@@ -1,5 +1,5 @@
-#ifndef LIST_H_INCLUDED
-#define LIST_H_INCLUDED
+#ifndef HERMAN_H_INCLUDED
+#define HERMAN_H_INCLUDED
 
 #include <stdio.h>
 #include <stdlib.h>
@@ -53,4 +53,4 @@ void InsertLast(List *L, address P);
 
 void PrintInfo(List L);
 
-#endif // LIST_H_INCLUDED
+#endif // HERMAN_H_INCLUDED

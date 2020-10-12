@@ -31,11 +31,11 @@
 		<Compiler>
 			<Add option="-Wall" />
 		</Compiler>
-		<Unit filename="list.c">
+		<Unit filename="Herman.c">
 			<Option compilerVar="CC" />
 		</Unit>
-		<Unit filename="list.h" />
-		<Unit filename="main.c">
+		<Unit filename="Herman.h" />
+		<Unit filename="Main.c">
 			<Option compilerVar="CC" />
 		</Unit>
 		<Extensions />
